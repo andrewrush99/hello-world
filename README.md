@@ -1,2 +1,3 @@
 # hello-world
-Test repoaitory
+Test repository.
+Some more text.
